@@ -11,6 +11,6 @@ Cambios hardware para futuras revisiones:
 - Condensadores y diodos TVS a la entrada del USB, ver compatibilidad con distintas marcas de cargadores.
 - Cambiar la ubicación del sensor de temperatura (se calienta más de lo esperado) y aplicarle un "moat".
 
-Es un diseño hardware MUY rápido para evaluar la herramienta de KiCad, en ningún caso usar de referencia. 
+Es un diseño hardware MUY rápido para evaluar la herramienta de KiCad, en ningún caso usar como referencia. 
 
 Si el proyecto tiene interés entre los asistentes a las reuniones de la asociación, se hará una revisión del PCB más despacio: mejorando el esquemático, el ruteado del PCB y buscando optimizar el consumo de corriente seleccionando los distintos componentes de la placa (cuando hay batería cada uA cuenta!).
