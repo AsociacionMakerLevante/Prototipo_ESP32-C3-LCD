@@ -3,7 +3,7 @@ Archivos del prorotipo de la placa para el taller de FreeRTOS, es un diseño rá
 
 AÚN POR VERIFICAR SU CORRECTO FUNCIONAMIENTO A NIVEL DE SEÑAL!!
 
-Código rápido de prueba para verificar el Hardware, no usar el código como referencia!
+Código de prueba para verificar el Hardware, no usar el código como referencia!
 
 No se han medido las señales de la placa con el osciloscopio, por lo que aún está por verificar el correcto funcionamiento del pcb a nivel de señal (a nivel de funcionalidad-programación parece correcto).
 
