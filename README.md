@@ -1,5 +1,5 @@
 # Prototipo_ESP32-C3-LCD
-Archivos del prorotipo de placa para el taller de FreeRTOS, es un diseño rápido con componentes que tenía a mano.. 
+Archivos del prorotipo de la placa para el taller de FreeRTOS, es un diseño rápido con componentes que tenía a mano.. 
 
 AÚN POR VERIFICAR SU CORRECTO FUNCIONAMIENTO A NIVEL DE SEÑAL!!
 
