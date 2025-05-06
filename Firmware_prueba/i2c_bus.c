@@ -1,7 +1,6 @@
 /*
 Funciones para controlar el bus I2C
 https://docs.espressif.com/projects/esp-idf/en/v5.4.1/esp32c3/api-reference/peripherals/i2c.html
-https://github.com/jefflongo/max17048/tree/master
 */
 #include <stdio.h>
 #include "driver/gpio.h"
