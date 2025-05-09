@@ -8,6 +8,7 @@ No se han medido las señales de la placa con el osciloscopio, por lo que aún e
 Cambios hardware para futuras revisiones:
 - Condensadores y diodos TVS a la entrada del USB, ver compatibilidad con distintas marcas de cargadores.
 - Cambiar la ubicación del sensor de temperatura (se calienta más de lo esperado) y aplicarle un "moat".
+- Reducir espacios en las DRC e incrementar algunos planos de disipación térmica.
 
 Es un diseño hardware MUY rápido para evaluar la herramienta de KiCad, en ningún caso usar como referencia. 
 
