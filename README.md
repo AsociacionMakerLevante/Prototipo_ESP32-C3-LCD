@@ -9,7 +9,7 @@ Cambios hardware para futuras revisiones:
 - Condensadores y diodos TVS a la entrada del USB, ver compatibilidad con distintas marcas de cargadores.
 - Cambiar la ubicación del sensor de temperatura (se calienta con la batería en carga) y aplicarle un "moat".
 - Reducir espacios en las DRC e incrementar algunos planos de disipación térmica.
-- Calcular y ajustar los condensadores del cristal del RTC, medir la desviación de este.
+- Calcular y ajustar los condensadores (2*(Cl-Cs)) del cristal del RTC, medir la desviación de este.
 - Reducir el número de valores distintos de resistencias y condensadores en el BOM.
 
 Es un diseño hardware MUY rápido para evaluar la herramienta de KiCad, en ningún caso usar como referencia. 
