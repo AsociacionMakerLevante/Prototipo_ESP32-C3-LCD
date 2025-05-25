@@ -3,7 +3,7 @@ Archivos del prorotipo de la placa para el taller de FreeRTOS, es un diseño rá
 
 Código de prueba para verificar el Hardware, no usar el código como referencia!
 
-No se han medido las señales de la placa con el osciloscopio, por lo que aún está por verificar el correcto funcionamiento del pcb a nivel de señal y consumos de corriente (a nivel de funcionalidad-programación parece correcto).
+No se han medido las señales de la placa con el osciloscopio, por lo que aún está por verificar el correcto funcionamiento del pcb a nivel de señal y consumos de corriente (medir corriente máxima del LDO), a nivel de funcionalidad-programación parece correcto.
 
 Cambios hardware para futuras revisiones:
 - Condensadores y diodos TVS a la entrada del USB, ver compatibilidad con distintas marcas de cargadores.
