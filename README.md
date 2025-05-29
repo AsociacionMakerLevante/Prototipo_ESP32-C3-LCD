@@ -8,7 +8,7 @@ No se han medido las señales de la placa con el osciloscopio, por lo que aún e
 Cambios hardware para futuras revisiones:
 - Condensadores y diodos TVS a la entrada del USB, ver compatibilidad con distintas marcas de cargadores.
 - Cambiar la ubicación del sensor de temperatura (se calienta con la batería en carga) y aplicarle un "moat".
-- Reducir espacios en las DRC e incrementar algunos planos de disipación térmica.
+- Reducir espacios en las DRC e incrementar algunos planos de disipación térmica (considerar planos de tierra en las capas exteriores).
 - Calcular y ajustar los condensadores (2*(Cl-Cs)) del cristal del RTC, medir la desviación de este.
 - Reducir el número de valores distintos de resistencias y condensadores en el BOM.
 
