@@ -11,6 +11,7 @@ Cambios hardware para futuras revisiones:
 - Reducir espacios en las DRC e incrementar algunos planos de disipación térmica (considerar planos de tierra en las capas exteriores).
 - Calcular y ajustar los condensadores (2*(Cl-Cs)) del cristal del RTC, medir la desviación de este.
 - Reducir el número de valores distintos de resistencias y condensadores en el BOM.
+- Mejoras EMI/EMC: filtro pi delante del diodo a continuación del USB, reducir ramificaciones (conexiones punto a punto), stitching vias perímetro, reubicar algunos componentes.
 
 Es un diseño hardware MUY rápido para evaluar la herramienta de KiCad, en ningún caso usar como referencia. 
 
